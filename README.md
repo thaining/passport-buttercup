@@ -12,9 +12,8 @@ integrated into any application or framework that supports
 
 ## Install
 
-```bash
-$ npm install passport-buttercup
-```
+Not in npmjs yet, so you'll need to clone this repository, run 'npm  pack', and add
+the generated compressed tar file to your package.json file.
 
 ## Usage
 
