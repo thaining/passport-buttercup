@@ -145,3 +145,5 @@ $ npm test
 
 [The MIT License](http://opensource.org/licenses/MIT)
 
+Special thanks to [Jared Hanson](https://github.com/jaredhanson) whose work on passport-local heavily influenced this strategy.
+Special thanks also to [Vesa Poikajärvi](https://github.com/vesse) for passport-ldapauth which also influenced this work.
