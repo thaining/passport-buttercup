@@ -12,9 +12,9 @@ integrated into any application or framework that supports
 
 ## Install
 
-Not in npmjs yet, so you'll need to clone this repository, run 'npm  pack', and add
-the generated compressed tar file to your package.json file.
-
+```bash
+$ npm install passport-buttercup
+```
 ## Usage
 
 #### Configure Strategy
